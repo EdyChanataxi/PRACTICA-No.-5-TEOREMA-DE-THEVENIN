@@ -24,12 +24,14 @@
 
 | CANTIDAD|MATERIAL O EQUIPO|
 | ----- | ---- |
-| 1|Fuente de Voltaje de C.D.|
+|2|Fuente de Voltaje de C.D.|
 |2|Multimetros digitales|
+|1|Resistor de 560 Ω|
+|1|Resistores de 4.7 kΩ|
+|1|Resistor de 330 Ω|
+|1|Resistor de 100 Ω|
 |1|Resistor de 1 kΩ|
-|2|Resistores de 2.2 kΩ|
-|1|Resistor de 1.8 kΩ|
-|1|Resistor de 3.9 kΩ|
+|1|Potenciometro de precision de 1 kΩ|
 |1|Protoboard|
 
 Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
