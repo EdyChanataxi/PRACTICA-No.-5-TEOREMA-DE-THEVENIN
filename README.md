@@ -41,6 +41,24 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 5. EXPLICACION 
 
+- Abrimos el simulador de TINKERCAD y seleccionamos nuevo circuito
+- Elegimos los materiales ya antes mencionados 
+- Conectamos los componentes siguiendo el esquema de la figura 5.1
+- Medimos el V y I en la resistencia R_5
+- Anotamos los resultados en la tabla 5.2
+- Retiramos R_5 y tomamos el V en el circuito abierto
+- Anotamos los resultados en la tabla 5.1
+- Reemplazamos la fuente de V por un cortocircuito y medimos la resistencia equivalente
+- Anotamos los resultados en la tabla 5.1
+- Ya con el circuito equivalente regrsamos R_5 a su sitio y medimos su V y I
+- Anotamos los resultados en la tabla 5.2
+
+Tabla 5.1. Valores del Circuito Equivalente de Thevenin
+
+
+Tabla 5.2. Comprobacion del Teorrema de Thevenin
+
+
 6. CONCLUCION 
 
 - Al comparar los calculos practicos y los resultados obtenidos anotados en las tablas 5.1 y 5.2 podemos notar una pequeña variacion y esos nos produce un minimo margen de error 
