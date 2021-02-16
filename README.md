@@ -22,6 +22,7 @@
 
 ![.](IMG/C.T.png)
 
+Ahora haremos la simulacion del circuito en TINKERCAD
 4. LISTA DE COMPONENTES
 
 | CANTIDAD|MATERIAL O EQUIPO|
@@ -45,3 +46,9 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 - Al comparar los calculos practicos y los resultados obtenidos anotados en las tablas 5.1 y 5.2 podemos notar una pequeña variacion y esos nos produce un minimo margen de error 
 
 7. BIBLIOGRAFIA
+- X. (2020, 20 julio). de Thevenin explicado para que lo Entiendas. Teorema. https://www.teorema.top/teorema-de-thevenin/
+
+- Sadiku. (sf). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléctricos
+
+- Floyd, T. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México, México: Pearson Education.
+
