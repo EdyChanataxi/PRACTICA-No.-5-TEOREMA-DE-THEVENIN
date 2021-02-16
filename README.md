@@ -16,11 +16,11 @@
 - Comparar los calculos teoricos con los resultados practicos y asi poder determinar si existe algun margen de error.
 2. MARCO TEORICO
 
-! [.]_(IMG/M.T.T.png)
+![.](IMG/M.T.T.png)
 
 3. DIAGRAMAS
 
-! [.]_(IMG/CTpng)
+![.](IMG/C.T.png)
 
 4. LISTA DE COMPONENTES
 
