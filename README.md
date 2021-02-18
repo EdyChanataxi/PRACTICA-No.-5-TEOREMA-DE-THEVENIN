@@ -66,6 +66,7 @@ Tabla 5.2. Comprobacion del Teorrema de Thevenin
 
 6. CONCLUCION 
 
+- El circuito se simplifico a un equivalente bastante sencillo al aplicar el teorema de Thevenin y a pesar de reducir su forma los valores que se llegan a obtener se siguen manteniendo.
 - Al comparar los calculos practicos y los resultados obtenidos anotados en las tablas 5.1 y 5.2 podemos notar una pequeña variacion y esos nos produce un minimo margen de error 
 
 7. BIBLIOGRAFIA
