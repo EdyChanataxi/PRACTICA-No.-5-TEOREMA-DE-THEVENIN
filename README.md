@@ -23,6 +23,9 @@
 ![.](IMG/C.T.png)
 
 Ahora haremos la simulacion del circuito en TINKERCAD
+
+![.](IMG/medicion.png)
+
 4. LISTA DE COMPONENTES
 
 | CANTIDAD|MATERIAL O EQUIPO|
@@ -55,9 +58,11 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 Tabla 5.1. Valores del Circuito Equivalente de Thevenin
 
+![.](IMG/T.TH.png)
 
 Tabla 5.2. Comprobacion del Teorrema de Thevenin
 
+![.](IMG/T2.TH.png)
 
 6. CONCLUCION 
 
